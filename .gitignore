@@ -1,0 +1,7 @@
+# Das Bündel entsteht in einer Sekunde neu und erzeugt sonst
+# Unterschiede von mehreren hundert Kilobyte, in denen niemand etwas erkennt.
+uebersicht.html
+
+.DS_Store
+node_modules/
+__pycache__/
